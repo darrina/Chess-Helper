@@ -34,7 +34,7 @@ const Autocomplete = require('./lib/autocomplete');
 function init() {
   const selector = `
     .analysis-diagram .chess_viewer,
-    .main-board .board,
+    .board-board,
     #chessboard,
     #live-app .main-board-component,
     #chess_com_tactics_board,
